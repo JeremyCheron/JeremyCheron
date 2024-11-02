@@ -1,7 +1,9 @@
 # Salut ! 👋
 
 ![C](https://img.shields.io/badge/language-C-orange)
-![C](https://img.shields.io/badge/language-PHP-orange)
+![C](https://img.shields.io/badge/language-PHP-green)
+![C](https://img.shields.io/badge/language-HTML-blue)
+![C](https://img.shields.io/badge/language-CSS-blue)
 
 I'm [Jeremy](https://github.com/JeremyCheron), former butcher building a new life.
 Coding with php since i was a kid, i'm now studying a 42 School in Le Havre.
