@@ -1,4 +1,4 @@
-# Salut ! 👋
+# Hey
 
 ![C](https://img.shields.io/badge/language-C-orange)
 ![C](https://img.shields.io/badge/language-PHP-green)
@@ -14,7 +14,6 @@ Coding with php since i was a kid, i'm now studying a 42 School in Le Havre.
 - [Libft](https://github.com/JeremyCheron/Libft) 
 - [Printf](https://github.com/JeremyCheron/ft_printf)
 - [Get Next Line](https://github.com/JeremyCheron/get_next_line)
+  
 ...
-
-Merci de visiter mon profil ! 🙌
 
