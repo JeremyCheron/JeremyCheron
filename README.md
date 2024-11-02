@@ -4,7 +4,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![C](https://img.shields.io/badge/language-C-orange)
 
-I'm [Ton Nom](https://github.com/ton_nom), former butcher building a new life.
+I'm [Jeremy](https://github.com/JeremyCheron), former butcher building a new life.
 Coding with php since i was a kid, i'm now studying a 42 School in Le Havre.
 
 ## My Projects
