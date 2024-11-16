@@ -6,7 +6,7 @@
 ![C](https://img.shields.io/badge/language-CSS-blue)
 
 I'm [Jeremy](https://github.com/JeremyCheron), former butcher building a new life.
-Coding with php since i was a kid, i'm now studying a 42 School in Le Havre.
+Coding with php since i was a kid, i'm now a 42 School student (Le Havre).
 
 ## My Projects
 
