@@ -19,5 +19,4 @@ Coding with php since i was a kid, i'm now studying a 42 School in Le Havre.
   
 ...
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremycheron&layout=donut)](https://github.com/jeremycheron/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyCheron&layout=donut)](https://github.com/JeremyCheron/github-readme-stats)
