@@ -21,7 +21,7 @@ Coding with php since i was a kid, i'm now a 42 School student (Le Havre).
 
 ### Other Projects
 - [Papeterie](https://github.com/JeremyCheron/papeterie)
-- [Papeterie](https://github.com/JeremyCheron/papeterie)
 - [ENI-Encheres](https://github.com/JeremyCheron/eni-encheres)
+- [Projet Sortir](https://github.com/JeremyCheron/projet-sortir)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyCheron&layout=donut)](https://github.com/JeremyCheron/github-readme-stats)
