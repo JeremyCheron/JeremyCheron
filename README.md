@@ -20,7 +20,7 @@ Coding with php since i was a kid, i'm now a 42 School student (Le Havre).
 ...
 
 ### Other Projects
-- [Papeterie](https://github.com/JeremyCheron/papeterie) gestion de stock en Java Se
+- [Papeterie](https://github.com/JeremyCheron/papeterie) gestion de stock en Java SE
 - [ENI-Encheres](https://github.com/JeremyCheron/eni-encheres) site d'encheres en Java EE 
 - [Projet Sortir](https://github.com/JeremyCheron/projet-sortir)  site de gestion d'evenements en symfony
 
