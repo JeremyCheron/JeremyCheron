@@ -8,7 +8,7 @@
 I'm [Jeremy](https://github.com/JeremyCheron), former butcher building a new life.
 Coding with php since i was a kid, i'm now a 42 School student (Le Havre).
 
-[![jcheron's 42 stats](https://badge.mediaplus.ma/water/jcheron?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![jcheron's 42 stats](https://badge.mediaplus.ma/water/jcheron?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyCheron&layout=donut)](https://github.com/JeremyCheron/github-readme-stats)
 
 ## My Projects
 
@@ -26,4 +26,4 @@ Coding with php since i was a kid, i'm now a 42 School student (Le Havre).
 - [ENI-Encheres](https://github.com/JeremyCheron/eni-encheres) site d'encheres en Java EE 
 - [Projet Sortir](https://github.com/JeremyCheron/projet-sortir)  site de gestion d'evenements en symfony
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyCheron&layout=donut)](https://github.com/JeremyCheron/github-readme-stats)
+
