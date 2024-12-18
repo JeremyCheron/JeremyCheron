@@ -8,6 +8,8 @@
 I'm [Jeremy](https://github.com/JeremyCheron), former butcher building a new life.
 Coding with php since i was a kid, i'm now a 42 School student (Le Havre).
 
+[![<jcheron>'s 42 stats](https://badge.mediaplus.ma/<water>/<jcheron>)](https://github.com/oakoudad/badge42)
+
 ## My Projects
 
 [My 42 BoilerPlate](https://github.com/JeremyCheron/42BoilerPlate) : a skeletton project to start all my future 42's C projects
