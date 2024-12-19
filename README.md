@@ -1,12 +1,13 @@
 <div align="center">
-  # Hey
   
-  [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,css,git,github,gitlab,html,java,js,linux,mysql,php,postman,symfony,tailwind,vscode&perline=9)](https://skillicons.dev)
   
   I'm [Jeremy](https://github.com/JeremyCheron), former butcher building a new life.
   Coding with php since i was a kid, i'm now a 42 School student (Le Havre).
   
-  [![jcheron's 42 stats](https://badge.mediaplus.ma/water/jcheron?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyCheron&layout=donut)](https://github.com/JeremyCheron/github-readme-stats)
+  [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,css,git,github,gitlab,html,java,js,linux,mysql,php,postman,symfony,tailwind,vscode&perline=9)](https://skillicons.dev)
+  
+  [![jcheron's 42 stats](https://badge.mediaplus.ma/water/jcheron?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyCheron&layout=donut)](https://github.com/JeremyCheron/github-readme-stats)
   
   ## My Projects
 </div>
