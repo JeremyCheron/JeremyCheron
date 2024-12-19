@@ -5,6 +5,7 @@
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/129049665?v=4" align="center" height="" width="" />
+<img src="https://badge.mediaplus.ma/colorfulwaves/jcheron?1337Badge=off&UM6P=off" alt="jcheron's 42 stats">
 </div>  
   
 
