@@ -1,3 +1,4 @@
+<div align="center">
 # Hey
 
 [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,css,git,github,gitlab,html,java,js,linux,mysql,php,postman,symfony,tailwind,vscode&perline=9)](https://skillicons.dev)
@@ -24,3 +25,4 @@ Coding with php since i was a kid, i'm now a 42 School student (Le Havre).
 - [Projet Sortir](https://github.com/JeremyCheron/projet-sortir)  site de gestion d'evenements en symfony
 
 
+</div>
