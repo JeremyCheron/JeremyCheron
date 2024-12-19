@@ -1,6 +1,6 @@
 # Hey
 
-[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,css,git,github,gitlab,html,java,js,linux,mysal,php,postman,symfony,tailwind,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,css,git,github,gitlab,html,java,js,linux,mysal,php,postman,symfony,tailwind,vscode&perline=6)](https://skillicons.dev)
 
 I'm [Jeremy](https://github.com/JeremyCheron), former butcher building a new life.
 Coding with php since i was a kid, i'm now a 42 School student (Le Havre).
