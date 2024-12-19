@@ -12,17 +12,13 @@
 </div>
 
 [My 42 BoilerPlate](https://github.com/JeremyCheron/42BoilerPlate) : a skeletton project to start all my future 42's C projects
-<p align="center">
 ### 📚 42 School projetcs
-</p>
 - [Libft](https://github.com/JeremyCheron/Libft) 
 - [Printf](https://github.com/JeremyCheron/ft_printf)
 - [Get Next Line](https://github.com/JeremyCheron/get_next_line)
   
 ...
-<p align="center">
 ### Other Projects
-</p>
 - [Papeterie](https://github.com/JeremyCheron/papeterie) gestion de stock en Java SE
 - [ENI-Encheres](https://github.com/JeremyCheron/eni-encheres) site d'encheres en Java EE 
 - [Projet Sortir](https://github.com/JeremyCheron/projet-sortir)  site de gestion d'evenements en symfony
