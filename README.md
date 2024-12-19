@@ -13,7 +13,7 @@
 
 [My 42 BoilerPlate](https://github.com/JeremyCheron/42BoilerPlate) : a skeletton project to start all my future 42's C projects
 <div align="center">
-  ### 📚 42 School projetcs
+### 📚 42 School projetcs
 </div>
 - [Libft](https://github.com/JeremyCheron/Libft) 
 - [Printf](https://github.com/JeremyCheron/ft_printf)
@@ -21,7 +21,7 @@
   
 ...
 <div align="center">
-  ### Other Projects
+### Other Projects
 </div>
 - [Papeterie](https://github.com/JeremyCheron/papeterie) gestion de stock en Java SE
 - [ENI-Encheres](https://github.com/JeremyCheron/eni-encheres) site d'encheres en Java EE 
