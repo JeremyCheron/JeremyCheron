@@ -16,7 +16,9 @@
 - [Libft](https://github.com/JeremyCheron/Libft) 
 - [Printf](https://github.com/JeremyCheron/ft_printf)
 - [Get Next Line](https://github.com/JeremyCheron/get_next_line)
-  
+- [Pipex](https://github.com/JeremyCheron/42-pipex)
+- [So Long](https://github.com/JeremyCheron/solong)
+- [Push Swap](https://github.com/JeremyCheron/Push-Swap)
 ...
 ### Other Projects
 - [Papeterie](https://github.com/JeremyCheron/papeterie) gestion de stock en Java SE
