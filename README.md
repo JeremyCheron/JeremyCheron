@@ -1,5 +1,7 @@
-### <div align="center">I'm Jeremy, former butcher building a new life. Coding with php since i was a kid, i'm now a 42 School student (Le Havre).
-
+<div align="center">
+	<h2>
+		I'm Jeremy, former butcher building a new life. Coding with php since i was a kid, i'm now a 42 School student (Le Havre).
+	</h2>
 </div>
 
 
@@ -8,11 +10,12 @@
 <img src="https://badge.mediaplus.ma/colorfulwaves/jcheron?1337Badge=off&UM6P=off" alt="jcheron's 42 stats">
 </div>
 
+<div align="center">
+	<h2>
+		My Projects
+	</h2>
+</div>
 
-## My Projects
-
-[My 42 BoilerPlate](https://github.com/JeremyCheron/42BoilerPlate) : a skeletton project to start all my future 42's C projects
-"
 <div align="center">
 	<table>
 	<thead>
