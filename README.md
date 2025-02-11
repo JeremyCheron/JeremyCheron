@@ -12,8 +12,8 @@
 ## My Projects
 
 [My 42 BoilerPlate](https://github.com/JeremyCheron/42BoilerPlate) : a skeletton project to start all my future 42's C projects
-
-<div align="center>
+"
+<div align="center">
 	<table>
 	<thead>
 		<tr>
