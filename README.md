@@ -15,13 +15,13 @@
 	</div>
 	<div align="center">
 		<table>
-		<thead>
-			<tr>
-				<h2>
-					Completed 42 Projects
-				</h2>
-			</tr>
-		</thead>
+			<thead>
+				<tr>
+					<h2>
+						Completed 42 Projects
+					</h2>
+				</tr>
+			</thead>
 			<tr>
 				<td>
 					<img src="/assets/libftm.png">
@@ -78,6 +78,7 @@
 					Minishell WIP
 				</td>
 			</tr>
+		</table>
 	</div>
 	<div align="center">
 		<h2> Other Projects </h2>
