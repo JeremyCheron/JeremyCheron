@@ -58,10 +58,10 @@
 				Get Next Line 100/100
 			</td>
 			<td>
-				<img src="/assets/so_longe.png">
+				<img src="/assets/born2beroote.png">
 			</td>
 			<td>
-				So Long 100/100
+				Born 2 Be Root 100/100
 			</td>
 		</tr>
 		<tr>
