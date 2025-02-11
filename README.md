@@ -55,7 +55,7 @@
 				<img src="/assets/get_next_linem.png">
 			</td>
 			<td>
-				Get Next Line 100/100
+				Get Next Line 112/100
 			</td>
 			<td>
 				<img src="/assets/born2beroote.png">
