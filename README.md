@@ -26,13 +26,13 @@
 				<img src="/assets/libftm.png">
 			</td>
 			<td>
-				[Libft 125/100](https://github.com/JeremyCheron/Libft)
+				Libft 125/100
 			</td>
 			<td>
 				<img src="/assets/pipexe.png">
 			</td>
 			<td>
-				[Pipex 100/100](https://github.com/JeremyCheron/42-pipex)
+				Pipex 100/100
 			</td>
 		</tr>
 		<tr>
