@@ -79,3 +79,18 @@
 			</td>
 		</tr>
 </div>
+
+<div align="center">
+	<h2> Other Projects </h2>
+	<ul>
+		<li>
+			<a href="https://github.com/JeremyCheron/papeterie">Papeterie</a> : gestion de stock en Java SE
+		</li>
+		<li>
+			<a href="https://github.com/JeremyCheron/eni-encheres">ENI-Encheres</a> : site d'encheres en Java EE
+		</li>
+		<li>
+			<a href="https://github.com/JeremyCheron/projet-sortir">Projet Sortir</a> : site de gestion d'evenements en symfony
+		</li>
+	</ul>
+</div>
