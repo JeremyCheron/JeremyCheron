@@ -40,13 +40,13 @@
 				<img src="/assets/ft_printfe.png">
 			</td>
 			<td>
-				[Printf 100/100](https://github.com/JeremyCheron/ft_printf)
+				Printf 100/100
 			</td>
 			<td>
 				<img src="/assets/so_longe.png">
 			</td>
 			<td>
-				[So Long 100/100](https://github.com/JeremyCheron/solong)
+				So Long 100/100
 			</td>
 		</tr>
 		<tr>
@@ -54,13 +54,13 @@
 				<img src="/assets/get_next_linem.png">
 			</td>
 			<td>
-				[Get Next Line 100/100](https://github.com/JeremyCheron/get_next_line)
+				Get Next Line 100/100
 			</td>
 			<td>
 				<img src="/assets/so_longe.png">
 			</td>
 			<td>
-				[So Long 100/100](https://github.com/JeremyCheron/solong)
+				So Long 100/100
 			</td>
 		</tr>
 		<tr>
@@ -68,7 +68,7 @@
 				<img src="/assets/push_swape.png">
 			</td>
 			<td>
-				[Push Swap 96/100](https://github.com/JeremyCheron/Push-Swap)
+				Push Swap 96/100
 			</td>
 			<td>
 				<img src="/assets/minishelle.png">
