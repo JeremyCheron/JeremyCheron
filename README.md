@@ -21,6 +21,7 @@
 				Completed 42 Projects
 			</h2>
 		</tr>
+	</thead>
 		<tr>
 			<td>
 				<img src="/assets/libftm.png">
