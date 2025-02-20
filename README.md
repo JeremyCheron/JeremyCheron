@@ -97,7 +97,7 @@
 					<img src="/assets/philosopherse.png">
 				</td>
 				<td>
-					Philosophers WIP
+					Philosophers 100/100
 				</td>
 				<td>
 					<img src="/assets/cppe.png">
