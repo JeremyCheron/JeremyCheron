@@ -77,8 +77,10 @@
 				<td>
 					Minishell 101/100 ⭐
 				</td>
+			</tr>
+			<tr>
 				<td>
-					<img src="/assets/philosophers.png">
+					<img src="/assets/philosopherse.png">
 				</td>
 				<td>
 					Philosophers WIP
