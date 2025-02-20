@@ -27,7 +27,7 @@
 					<img src="/assets/libftm.png">
 				</td>
 				<td>
-					Libft 125/100
+					Libft 125/100 ⭐⭐
 				</td>
 				<td>
 					<img src="/assets/pipexe.png">
@@ -55,7 +55,7 @@
 					<img src="/assets/get_next_linem.png">
 				</td>
 				<td>
-					Get Next Line 112/100
+					Get Next Line 112/100 ⭐⭐⭐
 				</td>
 				<td>
 					<img src="/assets/born2beroote.png">
@@ -72,10 +72,10 @@
 					Push Swap 96/100
 				</td>
 				<td>
-					<img src="/assets/minishelle.png">
+					<img src="/assets/minishellm.png">
 				</td>
 				<td>
-					Minishell WIP
+					Minishell 101/100 ⭐
 				</td>
 			</tr>
 		</table>
