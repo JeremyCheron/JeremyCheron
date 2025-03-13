@@ -99,7 +99,8 @@
 					<img src="/assets/cppe.png">
 				</td>
 				<td>
-					CPP-0-4 97/100 ⭐⭐⭐⭐⭐⭐⭐⭐
+					CPP-0-4 97/100 
+					<p>⭐⭐⭐⭐⭐⭐⭐⭐</p>
 				</td>
 			</tr>
 		</table>
