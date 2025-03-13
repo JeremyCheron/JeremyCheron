@@ -99,7 +99,7 @@
 					<img src="/assets/cppe.png">
 				</td>
 				<td>
-					CPP WIP
+					CPP-0-4 97/100 ⭐⭐⭐⭐⭐⭐⭐⭐
 				</td>
 			</tr>
 		</table>
