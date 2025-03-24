@@ -90,7 +90,9 @@
 			</tr>
 			<tr>
 				<td>
-					<img src="/assets/philosopherse.png">
+					<a href="https://github.com/JeremyCheron/42-Philosophers">
+						<img src="/assets/philosopherse.png">
+					</a>
 				</td>
 				<td>
 					Philosophers 100/100
