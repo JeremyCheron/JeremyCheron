@@ -105,6 +105,23 @@
 					<p>⭐⭐⭐⭐⭐⭐⭐⭐</p>
 				</td>
 			</tr>
+			<tr>
+				<td>
+					<a href="[https://github.com/JeremyCheron/42-Philosophers](https://github.com/JeremyCheron/42-cub3d)">
+						<img src="/assets/philosopherse.png">
+					</a>
+				</td>
+				<td>
+					Philosophers 100/100
+				</td>
+				<td>
+					<img src="/assets/cppe.png">
+				</td>
+				<td>
+					CPP-0-4 97/100 
+					<p>⭐⭐⭐⭐⭐⭐⭐⭐</p>
+				</td>
+			</tr>
 		</table>
 	</div>
 	<div align="center">
