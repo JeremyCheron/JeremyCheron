@@ -118,7 +118,7 @@
 					<img src="/assets/netpracticee.png">
 				</td>
 				<td>
-					NetPracti 100/100
+					NetPractice 100/100
 				</td>
 			</tr>
 		</table>
