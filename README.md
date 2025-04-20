@@ -101,25 +101,24 @@
 					<img src="/assets/cppe.png">
 				</td>
 				<td>
-					CPP-0-4 97/100 
+					CPP-0-4 97/100
 					<p>⭐⭐⭐⭐⭐⭐⭐⭐</p>
 				</td>
 			</tr>
 			<tr>
 				<td>
-					<a href="[https://github.com/JeremyCheron/42-Philosophers](https://github.com/JeremyCheron/42-cub3d)">
-						<img src="/assets/philosopherse.png">
+					<a href="https://github.com/JeremyCheron/42-cub3d">
+						<img src="/assets/cub3de.png">
 					</a>
 				</td>
 				<td>
-					Philosophers 100/100
+					Cub3D 105/100
 				</td>
 				<td>
-					<img src="/assets/cppe.png">
+					<img src="/assets/netpracticee.png">
 				</td>
 				<td>
-					CPP-0-4 97/100 
-					<p>⭐⭐⭐⭐⭐⭐⭐⭐</p>
+					NetPracti 100/100
 				</td>
 			</tr>
 		</table>
